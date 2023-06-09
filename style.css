@@ -1,0 +1,32 @@
+#md{
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 50px;
+    border: 1px solid black;
+    width: 500px;
+    border-radius: 8px;
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    color: rgb(247, 174, 39);
+    font-size: 30px;
+}
+input{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+}
+.btn{
+    width: 30px;
+    height: 30px;
+    background-color:  rgb(247, 174, 39);
+    border-radius: 10px;
+}
+p{
+    display: inline-block;
+    margin: 20px;
+}
+.divs{
+    display: block;
+}
